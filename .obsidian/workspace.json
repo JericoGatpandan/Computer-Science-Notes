@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a47a8eddf42586d3",
+        "id": "98cdd6f60235f311",
         "type": "tabs",
         "children": [
           {
-            "id": "e1f3fabf2fb1faaa",
+            "id": "b71af03155f26720",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02 Literature Notes/Error and Problem Solving.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "05 Projects & Assignments/Startup/IdeaStartup/App Idea.canvas",
+                "viewState": {
+                  "x": 1480,
+                  "y": 330,
+                  "zoom": -1.990662135420664
                 }
               },
-              "icon": "lucide-file",
-              "title": "Error and Problem Solving"
+              "icon": "lucide-layout-dashboard",
+              "title": "App Idea"
             }
           }
         ]
@@ -212,17 +205,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4f2feaad60dabf5",
+  "active": "63163822832a3ed1",
   "lastOpenFiles": [
-    "02 Literature Notes/Git Basic.md",
+    "05 Projects & Assignments/Startup/IdeaStartup/Idea 1.md",
+    "05 Projects & Assignments/Startup/IdeaStartup/App Idea.canvas",
+    "05 Projects & Assignments/Startup/IdeaStartup/App Idea.md",
+    "05 Projects & Assignments/Startup/Construction Material Price & Store Finder.md",
+    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Literature Notes/FOPL Lecture - Agnes T. Reyes.md",
+    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Literature Notes/Set Theory Lecture - Agnes T. Reyes.md",
+    "09 - Web Clipping/Using Vim with VSCode.md",
     "02 Literature Notes/Error and Problem Solving.md",
+    "02 Literature Notes/Git Basic.md",
     "02 Literature Notes/Functional Programming Explained Simply.md",
     "02 Literature Notes/Destructuring Assignment.md",
     "09 - Web Clipping/Installation guide - ArchWiki.md",
     "09 - Web Clipping/Google drive - Rclone.md",
     "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Subject Dashboard.md",
-    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Literature Notes/Set Theory Lecture - Agnes T. Reyes.md",
-    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Literature Notes/FOPL Lecture - Agnes T. Reyes.md",
     "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Flashcards – FOPL.md.md",
     "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Relation and Functions.md",
     "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Flashcards – Set Theory.md",
@@ -243,14 +241,9 @@
     "05 Projects & Assignments/To Do/ATM Simulator System/Project File/Project File.pdf",
     "05 Projects & Assignments/To Do/ATM Simulator System/icons/logo.jpg",
     "05 Projects & Assignments/To Do/ATM Simulator System/icons/atm.jpg",
-    "07 Templates/Frontend Mentor.md",
-    "07 Templates/Literature Note Template.md",
-    "07 Templates/Permanent Note Template.md",
-    "07 Templates/Fleeting Note Template.md",
     "04 Subject Notes/2nd Year/GATPANDAN_JERICOB25-002976-01D071125194514 (4).pdf",
     "04 Subject Notes/2nd Year/3114 - Database Management (Info Mgt) 1/Raw/Database_Course_Orientation.pdf",
     "All Notes.base",
-    "05 Projects & Assignments/Startup/IdeaStartup/App Idea.canvas",
     "05 Projects & Assignments/Startup/IdeaStartup/Ideas Mindmap.canvas",
     "04 Subject Notes/2nd Year/3049 - Discrete Structures 2/Raw",
     "08 Attachments/Screenshot From 2025-08-05 01-01-29.png",
