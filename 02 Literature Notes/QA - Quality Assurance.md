@@ -1,0 +1,1 @@
+a group of professionals dedicated to ensuring that software meets specified quality standards and user expectations

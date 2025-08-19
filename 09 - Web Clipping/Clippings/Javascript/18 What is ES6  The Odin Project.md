@@ -1,0 +1,52 @@
+---
+title: "What is ES6? | The Odin Project"
+source: "https://www.theodinproject.com/lessons/node-path-javascript-what-is-es6"
+author:
+published:
+created: 2025-07-10
+description: "The Odin Project empowers aspiring web developers to learn together for free"
+tags:
+  - "clippings"
+---
+We’ve been throwing around the term **ES6** since our very first lessons, but we haven’t taken the time to properly explain what it means or to investigate the implications of it in our code.
+
+This section contains a general overview of topics that you will learn in this lesson.
+
+- Describe what ES6 is.
+- Describe the current ECMAScript release system.
+- Explain some potential issues with browser support for newer JavaScript features.
+- Explain what Babel is.
+
+JavaScript is just a programming language that conforms to the ECMAScript standard, made by Ecma International, and ES6 is a version of JavaScript that was officially released in the summer of 2015. It included *many* new features that make writing JavaScript much easier and cleaner. In this curriculum, you have already been learning many of these new features because, well, ES6 is *just JavaScript*.
+
+You have probably also come across articles talking about features in ES7 or ES8 or ES2015 or ES2017 etc. Part of the confusion here is that right after the release of ES6, the committee that makes these decisions (known as TC39) changed the naming scheme from version numbers (ES5, ES6, ES7 etc.) to release years. ES6 is also known as ES2015, and what some articles refer to as ES7 is also known as ES2016 etc. Instead of a single new version containing a huge number of new features (as was the case with ES6 and before), versions are now released annually with a smaller set of additions per version.
+
+The *problem* with JavaScript constantly updating and adding features is that it sometimes takes web browsers a while to catch up and implement new features once they’ve been released. It often takes a couple of years for a new feature to become “widely available” (supported across the majority of modern browsers and browser versions in use). This means, unfortunately, that if you write code using brand new features, it **will not run** in browsers that do not support it.
+
+For most of us, this has not been an issue because you are almost definitely using a new browser that automatically updates itself when a new version is released. But in the real world, if you’re selling products to customers, you can’t control which browsers people will use to connect to your site.
+
+Fortunately there *is* a solution to this problem. [Babel](http://babeljs.io/) is a tool that takes your modern JavaScript code and **transpiles** it to code that older browsers can understand. It can be set to transpile to meet any number of targets (e.g. minimum browser versions across various browsers), where the necessary targets depend on things like the product’s purpose, its target audience etc. Some products may be fine with more recent browser support only whereas others may need to be much stricter and ensure support for much older browsers.
+
+In all honesty, this is *not* something that you are going to need to worry about on every project you’re starting, since the point of curriculum projects is to get practical experience with things and not delivering production-level products to customers. Still, it helps to be aware of the situation and what things may be necessary in the real world.
+
+1. To satisfy your curiosity, have a look at all the new [features that showed up in ES6 (a.k.a. ES2015)](https://github.com/lukehoban/es6features). Though you’ll already have been using many of these, there are a few we haven’t specifically covered yet (you do not need to explore these yet).
+2. Have a brief look at the [timeline of the various ECMAScript releases](https://en.wikipedia.org/wiki/ECMAScript_version_history#14th_Edition_%E2%80%93_ECMAScript_2023) which includes small summaries of the annual versions since ES6. Again, some things you may have already used and others you will not recognise nor need to explore yet.
+
+The following questions are an opportunity to reflect on key topics in this lesson. If you can’t answer a question, click on it to review the material, but keep in mind you are not expected to memorize or master this knowledge.
+
+- [What is ES6?](https://www.theodinproject.com/lessons/#ecmascript)
+- [Since ES6, what release schedule has been used for new ECMAScript versions?](https://www.theodinproject.com/lessons/#release-schedule)
+- [Why might someone need to be careful about using brand new JavaScript features?](https://www.theodinproject.com/lessons/#browser-support)
+- [What tool can be used to transpile newer JavaScript for older browser support?](https://www.theodinproject.com/lessons/#babel)
+
+This section contains helpful links to related content. It isn’t required, so consider it supplemental.
+
+- It looks like this lesson doesn’t have any additional resources yet. Help us expand this section by contributing to our curriculum.
+
+[Improve on GitHub](https://github.com/TheOdinProject/curriculum/edit/main/javascript/javascript_in_the_real_world/what_is_es6.md) [Report an issue](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Fnode-path-javascript-what-is-es6&template=suggestion.yaml&title=What+is+ES6%3F%3A+%3CShort+description+of+your+suggestion%3E) [See lesson changelog](https://github.com/TheOdinProject/curriculum/commits/main/javascript/javascript_in_the_real_world/what_is_es6.md)
+
+## Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners around the globe by supporting The Odin Project!
+
+[Learn more](https://www.theodinproject.com/support_us) [Donate now](https://opencollective.com/theodinproject/donate?amount=5)

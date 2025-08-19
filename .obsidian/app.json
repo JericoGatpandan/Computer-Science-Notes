@@ -1,0 +1,19 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "08 Attachments",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "vimMode": false,
+  "promptDelete": false,
+  "focusNewTab": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

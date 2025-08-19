@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "a6bcc9b935306142",
+    "type": "split",
+    "children": [
+      {
+        "id": "a47a8eddf42586d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1f3fabf2fb1faaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Literature Notes/Error and Problem Solving.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Error and Problem Solving"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ba9dbeb886a4f17",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c73d19aa01b2006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4f2feaad60dabf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "30a89b2727609ff0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8511da3d762d44db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 481.5
+  },
+  "right": {
+    "id": "fd76838c3f7f8d7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "94f93ba70ba73b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b470d6b60cf9d5e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Literature Notes/Coursera/Java Programming for Beginners/Module 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "pinned": true,
+              "icon": "lucide-list",
+              "title": "Outline of Module 2"
+            }
+          },
+          {
+            "id": "ddf731f376efaab3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 Subject Notes/3007-BCS121L-DISCRETE STRUCTURES/🧾 Literature Notes/🧾 FOPL Lecture - Agnes T. Reyes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🧾 FOPL Lecture - Agnes T. Reyes"
+            }
+          },
+          {
+            "id": "0ef0a344b0b5a334",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Obsidian Guide"
+            }
+          },
+          {
+            "id": "96462e2bac233257",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "63163822832a3ed1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "bd7a98ce1c9ed66d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5853e85e1e12fe7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "zk-prefixer:Create new unique note": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e1f3fabf2fb1faaa",
+  "lastOpenFiles": [
+    "02 Literature Notes/Functional Programming Explained Simply.md",
+    "02 Literature Notes/Error and Problem Solving.md",
+    "02 Literature Notes/Destructuring Assignment.md",
+    "09 - Web Clipping/Installation guide - ArchWiki.md",
+    "09 - Web Clipping/Google drive - Rclone.md",
+    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Subject Dashboard.md",
+    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Literature Notes/Set Theory Lecture - Agnes T. Reyes.md",
+    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Literature Notes/FOPL Lecture - Agnes T. Reyes.md",
+    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Flashcards – FOPL.md.md",
+    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Relation and Functions.md",
+    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Flashcards – Set Theory.md",
+    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Flashcards – First-Order Predicate Logic (FOPL).md",
+    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Flashcards - Logic.md",
+    "04 Subject Notes/1st Year/1113 - Mathematics in the Modern World/Flashcards/Flashcards – MMW Module 5.md",
+    "04 Subject Notes/1st Year/1113 - Mathematics in the Modern World/Flashcards/Flashcards – Patterns, Fibonacci, Golden Ratio.md",
+    "04 Subject Notes/1st Year/1113 - Mathematics in the Modern World/Flashcards/Flashcards – MMW Module 4 (Problem Solving).md",
+    "04 Subject Notes/1st Year/1113 - Mathematics in the Modern World/Flashcards/Flashcards – MMW Module 3.md",
+    "04 Subject Notes/1st Year/1113 - Mathematics in the Modern World/Flashcards/Flashcards – MMW Module 2.md",
+    "Table of Contents.base",
+    "04 Subject Notes/1st Year/3001-ACT111L-Introduction to Computing/✅ Progress Tracker.md",
+    "05 Projects & Assignments/Drafts Idea.md",
+    "08 Attachments/Blender/Image/Donut_v2.png",
+    "08 Attachments/Blender/Image/Donut_v1.png",
+    "08 Attachments/Blender/3d File/Donut base.png",
+    "08 Attachments/Blender Hotkeys.md",
+    "05 Projects & Assignments/To Do/ATM Simulator System/Project File/Project File.pdf",
+    "05 Projects & Assignments/To Do/ATM Simulator System/icons/logo.jpg",
+    "05 Projects & Assignments/To Do/ATM Simulator System/icons/atm.jpg",
+    "07 Templates/Frontend Mentor.md",
+    "07 Templates/Literature Note Template.md",
+    "07 Templates/Permanent Note Template.md",
+    "07 Templates/Fleeting Note Template.md",
+    "05 Projects & Assignments/Completed/Project Rock-Paper-Scissors.md",
+    "04 Subject Notes/2nd Year/GATPANDAN_JERICOB25-002976-01D071125194514 (4).pdf",
+    "04 Subject Notes/2nd Year/3114 - Database Management (Info Mgt) 1/Raw/Database_Course_Orientation.pdf",
+    "All Notes.base",
+    "05 Projects & Assignments/Startup/IdeaStartup/App Idea.canvas",
+    "05 Projects & Assignments/Startup/IdeaStartup/Ideas Mindmap.canvas",
+    "04 Subject Notes/2nd Year/3049 - Discrete Structures 2/Raw",
+    "08 Attachments/Screenshot From 2025-08-05 01-01-29.png",
+    "08 Attachments/Screenshot From 2025-08-05 00-37-59.png",
+    "05 Projects & Assignments/Startup/IdeaStartup",
+    "04 Subject Notes/2nd Year/3048 - Social Issues and Professional Practice",
+    "04 Subject Notes/2nd Year/3046 - Networking and Communications",
+    "04 Subject Notes/2nd Year/3049 - Discrete Structures 2",
+    "08 Attachments/Pasted image 20250710092914.png",
+    "08 Attachments/The_Odin_Project_idkh09PaW6_0.png",
+    "08 Attachments/Pasted image 20250710092721.png"
+  ]
+}

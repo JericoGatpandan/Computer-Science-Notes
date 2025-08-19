@@ -1,0 +1,1 @@
+- Destructuring assignment in JavaScript is an expression that enables unpacking values from arrays or properties from objects into distinct variables. This feature, introduced in ES6, simplifies code by making it more concise and readable when extracting data

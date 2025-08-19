@@ -1,0 +1,2 @@
+#javascript #data-format #json
+JSON (JavaScript Object Notation) is a standardized format for structuring data. It is heavily based on the syntax for JavaScript objects.

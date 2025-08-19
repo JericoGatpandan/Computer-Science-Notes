@@ -1,0 +1,50 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "07 Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "01 Fleeting Notes",
+      "template": "07 Templates/Fleeting Note Template.md"
+    },
+    {
+      "folder": "02 Literature Notes",
+      "template": "07 Templates/Literature Note Template.md"
+    },
+    {
+      "folder": "03 Permanent Note",
+      "template": "07 Templates/Permanent Note Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "07 Templates/Fleeting Note Template.md",
+    "07 Templates/Literature Note Template.md",
+    "07 Templates/Permanent Note Template.md",
+    "07 Templates/Subject Note Template.md",
+    "07 Templates/Spaced Repetition Template.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

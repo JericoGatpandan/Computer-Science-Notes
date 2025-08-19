@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "f470221ae094e3e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0957920e27e25b35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a98b78d0df8dbd6a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5812bc9b466e48d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "32d4cc7c605e5e87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd75a3f903225925",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "11ffc24afacd50e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4a4d87cd3fe4c48a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5f8f8d83e5c3207",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cd9a8075b1ab41a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab701a2f6fa3de96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a723e9884feb3696",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "00908a007e46f6b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "042aabe3075cd07d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fd75a3f903225925",
+  "lastOpenFiles": [
+    "09 - Web Clipping/Skills Network Editor.md",
+    "09 - Web Clipping",
+    "3001-ACT111L-Introduction to Computing/Permanent Note/💡 Social Impact of Computers.md",
+    "3001-ACT111L-Introduction to Computing/Permanent Note/💡 Types of Computer Networks.md",
+    "3001-ACT111L-Introduction to Computing/Permanent Note/💡 Computer Hardware Overview.md",
+    "3001-ACT111L-Introduction to Computing/Permanent Note/💡 Computer as a Machine.md",
+    "3001-ACT111L-Introduction to Computing/Permanent Note/💡 CPU - ALU vs CU.md",
+    "3001-ACT111L-Introduction to Computing/Permanent Note/💡 Charles Babbage and the Analytical Engine.md",
+    "3001-ACT111L-Introduction to Computing/Permanent Note/💡 Applications of IT in Society.md",
+    "3001-ACT111L-Introduction to Computing/Permanent Note/💡 Advantages and Disadvantages of Computers.md",
+    "3001-ACT111L-Introduction to Computing/Permanent Note/💡 Ada Lovelace - The First Programmer.md",
+    "3001-ACT111L-Introduction to Computing/✅ Progress Tracker.md"
+  ]
+}

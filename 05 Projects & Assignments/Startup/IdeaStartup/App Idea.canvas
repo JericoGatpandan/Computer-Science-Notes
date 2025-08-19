@@ -1,0 +1,70 @@
+{
+	"nodes":[
+		{
+			"id":"f2f0a17cf8736d96",
+			"type":"text",
+			"text":"## 🔹 1) **Typhoon and Flood Warning Systems**\n\n### 💡 **AI-Based Rainfall & Flood Forecasting App**\n\n- Uses real-time data from open weather APIs (like OpenWeather or PAGASA) + historical flood data.\n    \n- Applies **machine learning** to predict the likelihood and severity of flood per barangay.\n    \n- Sends personalized alerts to residents with instructions (e.g., \"prepare\", \"evacuate\", \"safe\").\n    \n\n### 💡 **Community SMS Alert System (for areas with poor internet)**\n\n- Auto-sends warning messages via SMS to registered residents and barangay leaders.\n    \n- Works with a basic GSM modem or cloud-based SMS services (Twilio, Globe Labs).\n    \n\n### 💡 **Low-Cost Solar-Powered Weather Station**\n\n- Measures rainfall, wind speed, and pressure using Arduino or Raspberry Pi.\n    \n- Installs in schools/barangay halls and uploads data online or via SMS.## 🔹 1) **Typhoon and Flood Warning Systems**",
+			"styleAttributes":{},
+			"x":80,
+			"y":-520,
+			"width":880,
+			"height":1000
+		},
+		{
+			"id":"58d3e8163ca1ed7a",
+			"type":"text",
+			"text":"## 🔹 2) **River Watershed Monitoring Solutions**\n\n### 💡 **IoT Water Level Monitoring System**\n\n- Installs ultrasonic or float sensors in rivers/watersheds to measure water level.\n    \n- Sends real-time updates to the cloud dashboard or text alert if water rises rapidly.\n    \n- Use LoRa or GSM for data transmission even in remote areas.\n    \n\n### 💡 **D Residents report sightings (e.g., river overflow, blocked canals, illegal dumping).rone-Based River Scanning**\n\n- Program a cheap drone with a camera or infrared sensor to scan watersheds and riverbanks regularly.\n    \n- AI processes images to detect possible blockages, landslides, or erosion.\n    \n\n### 💡 **Community-Centered Watershed Reporting App**\n\n- Residents report sightings (e.g., river overflow, blocked canals, illegal dumping).\n    \n- App collects geotagged reports, helps prioritize response areas.\n    \n",
+			"styleAttributes":{},
+			"x":1000,
+			"y":-520,
+			"width":880,
+			"height":1000
+		},
+		{
+			"id":"18e3db944f6682b4",
+			"type":"text",
+			"text":"## 🔹 3) **Flood Warning Public Address Systems**\n\n### 💡 **Smart PA System with Trigger Alerts**\n\n- Build PA systems that auto-broadcast warnings when water sensors are triggered.\n    \n- Can be solar-powered + battery backup for brownouts.\n    \n- Uses pre-recorded multilingual messages (Bicolano, Tagalog, English).\n    \n\n### 💡 **Voice-Activated Barangay Alert System**\n\n- Each barangay has a megaphone system that responds to voice commands (e.g., “Code Red Alert”).\n    \n- Can be triggered remotely by LGU or auto-triggered via API from central monitoring app.\n    \n\n### 💡 **Barangay Warning Network using Walkie-Talkie + PA**\n\n- Equips barangay personnel with radio-based walkie-talkies connected to PA horns.\n    \n- Fast manual relay for voice warnings when systems or power are down.\n    \n",
+			"styleAttributes":{},
+			"x":1960,
+			"y":-520,
+			"width":920,
+			"height":1000
+		},
+		{
+			"id":"ebb2fb21e850e735",
+			"type":"text",
+			"text":"## Bonus 🔧 **Cross-Cutting Ideas (for any category)**\n\n- **Color-coded flood indicator poles** along rivers (combined with sensors or manually updated)\n    \n- **Gamified disaster preparedness app** for schools and households (learn + practice emergency response)\n    \n- **\"Adopt-a-Drain\" community platform** where volunteers monitor key waterways and receive rewards\n    \n- **Offline-ready apps** for senior citizens or low-tech phones (via SMS or USSD menu system)",
+			"styleAttributes":{},
+			"x":80,
+			"y":600,
+			"width":800,
+			"height":580
+		},
+		{
+			"id":"f8822ea6ae14c041",
+			"type":"text",
+			"text":"Ai voice or announcment can be edited",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1100,
+			"y":600,
+			"width":420,
+			"height":120
+		}
+	],
+	"edges":[
+		{
+			"id":"be814225f69a53a2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f8822ea6ae14c041",
+			"fromSide":"right",
+			"toNode":"18e3db944f6682b4",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,98 @@
+---
+title: "Project: Rock Paper Scissors | The Odin Project"
+source: "https://www.theodinproject.com/lessons/foundations-rock-paper-scissors"
+author:
+published:
+created: 2025-06-17
+description: "The Odin Project empowers aspiring web developers to learn together for free"
+tags:
+  - "clippings"
+---
+For this project, you will create the game [Rock Paper Scissors](https://www.wikihow.com/Play-Rock,-Paper,-Scissors). This game will be played entirely in the console.
+
+Some of the student solutions below contain buttons, text, and other elements. These elements are part of what is called a graphical user interface (GUI). You'll create the GUI in a later lesson. In the meantime, remember to commit your code to GitHub.
+
+Since this is the first JavaScript project being built from scratch, it’s important to remember the wise words from the [Problem Solving lesson](https://www.theodinproject.com/lessons/foundations-problem-solving). For each step in this project, be sure to do the following
+
+1. Plan or pseudocode your solution.
+2. Write the code.
+3. Test your code to make sure it works.
+
+Remember to commit early and often! To refresh your memory, check out the [commit messages lesson](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/commit-messages).
+
+1. Create a new Git repository for your project.
+2. Create a blank HTML document with a script tag.
+3. Check if JavaScript is linked correctly:
+	- Write `console.log("Hello World")` in JavaScript.
+	- Check if “Hello World” is logged in the browser console once you open your webpage.
+
+It’s best practice to link to an external JavaScript file inside this script tag. Using an external JavaScript file keeps your HTML file clean and organized.
+
+You don’t have to write additional code in the HTML file. This game is played entirely via the console.
+
+Your game will be played against the computer. You will write a function that randomly returns “rock”, “paper” or “scissors”.
+
+1. Create a new function named `getComputerChoice`.
+2. Write the code so that `getComputerChoice` will randomly `return` one of the following string values: “rock”, “paper” or “scissors”.
+	- **Hint**: The [Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random) method returns a random number that’s greater than or equal to 0 and less than 1. Think about how you can use this to conditionally return one of the multiple choices.
+	- **Note**: Some learners might think that arrays are necessary for this problem, but they aren’t. If you’re unfamiliar with arrays, don’t worry - they’ll be covered later in the curriculum.
+3. Test that your function returns what you expect using `console.log` or [the browser developer tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools) before advancing to the next step.
+
+Your game will be played by a human player. You will write a function that takes the user choice and returns it.
+
+1. Create a new function named `getHumanChoice`.
+2. Write the code so that `getHumanChoice` will return one of the valid choices depending on what the user inputs.
+	- **Hint**: Use the [prompt](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt) method to get the user’s input.
+	- You do not need to handle reprompting if the user enters an invalid input, as that would require things we will teach later. For now, just assume the user will always enter a valid choice.
+3. Test what your function returns by using `console.log`.
+
+Your game will keep track of the players score. You will write variables to keep track of the players score.
+
+1. Create two new variables named `humanScore` and `computerScore` in the global scope.
+2. Initialize those variables with the value of `0`.
+
+Your game will be played round by round. You will write a function that takes the human and computer player choices as arguments, plays a single round, increments the round winner’s score and logs a winner announcement.
+
+1. Create a new function named `playRound`.
+2. Define two parameters for `playRound`: `humanChoice` and `computerChoice`. Use these two parameters to take the human and computer choices as arguments.
+3. Make your function’s `humanChoice` parameter case-insensitive so that players can input “rock”, “ROCK”, “RocK”, or other variations.
+4. Write the code for your `playRound` function to `console.log` a string value representing the round winner, such as: “You lose! Paper beats Rock”.
+5. Increment the `humanScore` or `computerScore` variable based on the round winner.
+
+Example code:
+
+```javascript
+function playRound(humanChoice, computerChoice) {
+  // your code here!
+}
+
+const humanSelection = getHumanChoice();
+const computerSelection = getComputerChoice();
+
+playRound(humanSelection, computerSelection);
+```
+
+Your game will play 5 rounds. You will write a function named `playGame` that calls `playRound` to play 5 rounds, keeps track of the scores and declares a winner at the end.
+
+1. Create a new function named `playGame`.
+2. Move your `playRound` function and score variables so that they’re declared inside of the new `playGame` function
+3. Play 5 rounds by calling `playRound` 5 times.
+	- **Hint**: When you assign a function call to a variable, the return value of that function is assigned to the variable. Accessing the variable afterward will only provide the assigned value; it doesn’t recall the function. You need to recall the choice functions to get new choices for each round.
+	- Re-work your previous functions or create more helper functions if necessary. Specifically, you may want to change the return values to something more useful.
+	- If you already know about loops, you can use them. If not, don’t worry! Loops will be covered in the next lesson.
+
+When making interactive projects, like this one, you might be tempted to add more features, improve interactivity, user experience, design and styling of your website, and so on.
+
+We recommend not doing that, and saving this effort for your portfolio projects.
+
+For more information on learning mindset and portfolio pieces read [Part 5](https://dev.to/theodinproject/learning-code-f56) and [Part 7](https://dev.to/theodinproject/strategically-building-your-portfolio-1km4) of [Becoming a TOP Success Story](https://dev.to/theodinproject/becoming-a-top-success-story-mindset-3dp2)
+
+[Improve on GitHub](https://github.com/TheOdinProject/curriculum/edit/main/foundations/javascript_basics/project_rock_paper_scissors.md) [Report an issue](https://github.com/TheOdinProject/curriculum/issues/new?labels=Status%3A+Needs+Triage&lesson-link=https%3A%2F%2Fwww.theodinproject.com%2Flessons%2Ffoundations-rock-paper-scissors&template=suggestion.yaml&title=Rock+Paper+Scissors%3A+%3CShort+description+of+your+suggestion%3E) [See lesson changelog](https://github.com/TheOdinProject/curriculum/commits/main/foundations/javascript_basics/project_rock_paper_scissors.md)
+
+[Rock Paper Scissors solution](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+
+## Support us!
+
+## The Odin Project is funded by the community. Join us in empowering learners around the globe by supporting The Odin Project!
+
+[Learn more](https://www.theodinproject.com/support_us) [Donate now](https://opencollective.com/theodinproject/donate?amount=5)
