@@ -4,27 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "98cdd6f60235f311",
+        "id": "432ea25cba303e86",
         "type": "tabs",
         "children": [
           {
-            "id": "b71af03155f26720",
+            "id": "7ce0152bb30e3fcb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e9ebe74fff65ee4c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "05 Projects & Assignments/Startup/IdeaStartup/App Idea.canvas",
+                "file": "00 Inbox/Meeting canvas.canvas",
                 "viewState": {
-                  "x": 1480,
-                  "y": 330,
-                  "zoom": -1.990662135420664
+                  "x": 1127.3046810922197,
+                  "y": -42.925135633685585,
+                  "zoom": -0.7643501055073995
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "App Idea"
+              "title": "Meeting canvas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#Java",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,39 +216,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63163822832a3ed1",
+  "active": "e9ebe74fff65ee4c",
   "lastOpenFiles": [
-    "05 Projects & Assignments/Startup/IdeaStartup/Idea 1.md",
+    "00 Inbox/Meeting canvas.canvas",
+    "00 Inbox/Meeting 8-20-2025.md",
+    "Table of Contents.base",
+    "02 Literature Notes/Applying OOP.md",
+    "02 Literature Notes/Git Basic.md",
+    "02 Literature Notes/Error and Problem Solving.md",
+    "03 Permanent Note/JSON.md",
+    "03 Permanent Note/How to deploy project in GitHub.md",
+    "03 Permanent Note/3 Ways to declare variable in JavaScript.md",
+    "03 Permanent Note/Git Syntax.md",
+    "08 Attachments/google-classroom.svg",
+    "08 Attachments/java-svgrepo-com.svg",
+    "08 Attachments/Pasted image 20250710092721.png",
+    "08 Attachments/Git Commands and Managing GitHub Projects_Cheat Sheet.pdf",
+    "02 Literature Notes/Coursera/Java Programming for Beginners/Module 1.md",
+    "02 Literature Notes/Java CheatSheet/Building Blocks of Java Programming_Coding Cheat Sheet.md",
+    "02 Literature Notes/Java CheatSheet/Course-Level Coding Cheat Sheet.md",
+    "02 Literature Notes/Java CheatSheet/Control Structures and String Handling_Coding Cheat Sheet.md",
+    "02 Literature Notes/DOM Basics.md",
+    "02 Literature Notes/Callbacks & Events.md",
+    "02 Literature Notes/JavaScript Closure.md",
+    "02 Literature Notes/Tmux Keymap.md",
     "05 Projects & Assignments/Startup/IdeaStartup/App Idea.canvas",
+    "05 Projects & Assignments/Startup/IdeaStartup/Idea 1.md",
     "05 Projects & Assignments/Startup/IdeaStartup/App Idea.md",
     "05 Projects & Assignments/Startup/Construction Material Price & Store Finder.md",
     "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Literature Notes/FOPL Lecture - Agnes T. Reyes.md",
     "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Literature Notes/Set Theory Lecture - Agnes T. Reyes.md",
     "09 - Web Clipping/Using Vim with VSCode.md",
-    "02 Literature Notes/Error and Problem Solving.md",
-    "02 Literature Notes/Git Basic.md",
     "02 Literature Notes/Functional Programming Explained Simply.md",
     "02 Literature Notes/Destructuring Assignment.md",
     "09 - Web Clipping/Installation guide - ArchWiki.md",
-    "09 - Web Clipping/Google drive - Rclone.md",
-    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Subject Dashboard.md",
-    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Flashcards – FOPL.md.md",
-    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Relation and Functions.md",
-    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Flashcards – Set Theory.md",
-    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Flashcards – First-Order Predicate Logic (FOPL).md",
-    "04 Subject Notes/1st Year/3007-BCS121L-DISCRETE STRUCTURES/Reviews & Flashcards/Flashcards - Logic.md",
-    "04 Subject Notes/1st Year/1113 - Mathematics in the Modern World/Flashcards/Flashcards – MMW Module 5.md",
-    "04 Subject Notes/1st Year/1113 - Mathematics in the Modern World/Flashcards/Flashcards – Patterns, Fibonacci, Golden Ratio.md",
-    "04 Subject Notes/1st Year/1113 - Mathematics in the Modern World/Flashcards/Flashcards – MMW Module 4 (Problem Solving).md",
-    "04 Subject Notes/1st Year/1113 - Mathematics in the Modern World/Flashcards/Flashcards – MMW Module 3.md",
-    "04 Subject Notes/1st Year/1113 - Mathematics in the Modern World/Flashcards/Flashcards – MMW Module 2.md",
-    "Table of Contents.base",
-    "04 Subject Notes/1st Year/3001-ACT111L-Introduction to Computing/✅ Progress Tracker.md",
-    "05 Projects & Assignments/Drafts Idea.md",
     "08 Attachments/Blender/Image/Donut_v2.png",
     "08 Attachments/Blender/Image/Donut_v1.png",
     "08 Attachments/Blender/3d File/Donut base.png",
-    "08 Attachments/Blender Hotkeys.md",
     "05 Projects & Assignments/To Do/ATM Simulator System/Project File/Project File.pdf",
     "05 Projects & Assignments/To Do/ATM Simulator System/icons/logo.jpg",
     "05 Projects & Assignments/To Do/ATM Simulator System/icons/atm.jpg",
@@ -250,10 +265,6 @@
     "08 Attachments/Screenshot From 2025-08-05 00-37-59.png",
     "05 Projects & Assignments/Startup/IdeaStartup",
     "04 Subject Notes/2nd Year/3048 - Social Issues and Professional Practice",
-    "04 Subject Notes/2nd Year/3046 - Networking and Communications",
-    "04 Subject Notes/2nd Year/3049 - Discrete Structures 2",
-    "08 Attachments/Pasted image 20250710092914.png",
-    "08 Attachments/The_Odin_Project_idkh09PaW6_0.png",
-    "08 Attachments/Pasted image 20250710092721.png"
+    "04 Subject Notes/2nd Year/3046 - Networking and Communications"
   ]
 }
