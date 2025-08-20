@@ -26,16 +26,40 @@
                 "file": "00 Inbox/Meeting canvas.canvas",
                 "viewState": {
                   "x": 1127.3046810922197,
-                  "y": -42.925135633685585,
+                  "y": -516.8358144765857,
                   "zoom": -0.7643501055073995
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Meeting canvas"
             }
+          },
+          {
+            "id": "8e2e037eca84d442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/MySql Access denied problem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MySql Access denied problem"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,9 +240,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9ebe74fff65ee4c",
+  "active": "8e2e037eca84d442",
   "lastOpenFiles": [
+    "08 Attachments/Pasted image 20250820232912.png",
     "00 Inbox/Meeting canvas.canvas",
+    "00 Inbox/MySql Access denied problem.md",
     "00 Inbox/Meeting 8-20-2025.md",
     "Table of Contents.base",
     "02 Literature Notes/Applying OOP.md",
@@ -249,7 +275,6 @@
     "09 - Web Clipping/Using Vim with VSCode.md",
     "02 Literature Notes/Functional Programming Explained Simply.md",
     "02 Literature Notes/Destructuring Assignment.md",
-    "09 - Web Clipping/Installation guide - ArchWiki.md",
     "08 Attachments/Blender/Image/Donut_v2.png",
     "08 Attachments/Blender/Image/Donut_v1.png",
     "08 Attachments/Blender/3d File/Donut base.png",
