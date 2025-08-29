@@ -200,7 +200,7 @@ Type: Video
 	- letting cross-domain teams know when they have completed their tasks so development can move to the next phase.   
     
 - Common software engineering processes are requirements gathering, design, coding, testing, releasing, and documenting. 
-- The requirement gathering process entails identifying stakeholders, establishing goals and objectives, eliciting requirements from the stakeholders, documenting the requirements, analyzing, prioritizing, and confirming the requirements. 
+- The requirement gathering process entails identifying stakeholders, establishing goals thered, analyzed, and documented to understand what the software needs to achieve.and objectives, eliciting requirements from the stakeholders, documenting the requirements, analyzing, prioritizing, and confirming the requirements. 
 - An SRS is a document that captures the functionalities that the software should perform and also establishes benchmarks or service levels for its performance. 
 - A URS is a subset of the SRS that details user specification requirements. 
 - The SysRS contains the same information as an SRS, but can also additionally include system capabilities, interfaces, and user characteristics, policy requirements, regulation requirements, personnel requirements, performance requirements, security requirements, and system acceptance criteria. 
