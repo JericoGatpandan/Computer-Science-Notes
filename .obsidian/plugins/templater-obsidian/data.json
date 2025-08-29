@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "07 Templates",
+  "templates_folder": "04 Templates",
   "templates_pairs": [
     [
       "",
@@ -13,20 +13,7 @@
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "01 Fleeting Notes",
-      "template": "07 Templates/Fleeting Note Template.md"
-    },
-    {
-      "folder": "02 Literature Notes",
-      "template": "07 Templates/Literature Note Template.md"
-    },
-    {
-      "folder": "03 Permanent Note",
-      "template": "07 Templates/Permanent Note Template.md"
-    }
-  ],
+  "folder_templates": [],
   "enable_file_templates": false,
   "file_templates": [
     {
@@ -37,14 +24,14 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "07 Templates/Fleeting Note Template.md",
-    "07 Templates/Literature Note Template.md",
-    "07 Templates/Permanent Note Template.md",
-    "07 Templates/Subject Note Template.md",
-    "07 Templates/Spaced Repetition Template.md"
+    "04 Templates/Fleeting Note Template.md",
+    "04 Templates/Literature Note Template.md",
+    "04 Templates/Permanent Note Template.md",
+    "04 Templates/Subject Note Template.md",
+    "04 Templates/Spaced Repetition Template.md"
   ],
   "startup_templates": [
-    ""
+    "04 Templates/Literature Note Template.md"
   ],
   "intellisense_render": 1
 }

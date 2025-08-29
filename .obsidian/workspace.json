@@ -4,59 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc534ddbba534d6",
+        "id": "67d5bd1245c971d2",
         "type": "tabs",
         "children": [
           {
-            "id": "e25315df8e5ec560",
+            "id": "cf0e176b0554d580",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/Python Virtual Environment.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Python Virtual Environment"
-            }
-          },
-          {
-            "id": "c61e2227d966ee66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Literature Notes/Machine Learning in 2024 – Beginner's Course.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Machine Learning in 2024 – Beginner's Course"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -88,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#java",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5026054382324
+    "width": 296.5
   },
   "right": {
     "id": "fd76838c3f7f8d7a",
@@ -141,39 +103,6 @@
             }
           },
           {
-            "id": "ddf731f376efaab3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "04 Subject Notes/3007-BCS121L-DISCRETE STRUCTURES/🧾 Literature Notes/🧾 FOPL Lecture - Agnes T. Reyes.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 🧾 FOPL Lecture - Agnes T. Reyes"
-            }
-          },
-          {
-            "id": "0ef0a344b0b5a334",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Obsidian Guide.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Obsidian Guide"
-            }
-          },
-          {
             "id": "96462e2bac233257",
             "type": "leaf",
             "state": {
@@ -192,21 +121,54 @@
             "id": "63163822832a3ed1",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "empty",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7a2d4380016b7c12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Inbox/Python JSON.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Python JSON"
+            }
+          },
+          {
+            "id": "bff937c32024c9b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 Inbox/Python JSON.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python JSON"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
-        "id": "bd7a98ce1c9ed66d",
+        "id": "85eba4870c1452f8",
         "type": "tabs",
         "children": [
           {
-            "id": "d5853e85e1e12fe7",
+            "id": "132c993ce606e821",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -219,10 +181,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "bases:Create new base": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -231,62 +196,61 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "zk-prefixer:Create new unique note": false,
-      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4f2feaad60dabf5",
+  "active": "cf0e176b0554d580",
   "lastOpenFiles": [
+    "01 Notes/SOLID principle.md",
+    "00 Inbox/Code Refractor.md",
+    "00 Inbox/Asynchronous functions.md",
+    "01 Notes/Webpack Basics.md",
+    "01 Notes/webpack Concepts.md",
+    "01 Notes/Loops and Arrays.md",
+    "01 Notes/JSON.md",
+    "01 Notes/JS Imports & Exports.md",
+    "01 Notes/JavaScript Closure.md",
+    "01 Notes/Java Command Line Arguments.md",
+    "01 Notes/DOM Basics.md",
+    "01 Notes/Callbacks & Events.md",
+    "01 Notes/Applying OOP.md",
+    "01 Notes/3 Ways to declare variable in JavaScript.md",
+    "06 - Web Clipping/Using Vim with VSCode.md",
+    "06 - Web Clipping/IoT Flood Monitoring System for Accurate Water Level Detection.md",
+    "06 - Web Clipping/Installation guide - ArchWiki.md",
+    "06 - Web Clipping/Google drive - Rclone.md",
+    "06 - Web Clipping/Clippings/Enhancing my productivity with Vim and VS Code.md",
+    "01 Notes/Building A House From The Inside Out.md",
+    "04 Templates/Permanent Note Template.md",
+    "04 Templates/Literature Note Template.md",
+    "04 Templates/Frontend Mentor.md",
+    "04 Templates/Fleeting Note Template.md",
+    "01 Notes/Quotes.md",
+    "01 Notes/Git Syntax.md",
+    "05 Attachments/Blender/Image/Houdini_Monkey_v2.png",
+    "05 Attachments/Blender/Image/Houdini_Monkey.png",
+    "05 Attachments/Blender/Image/Gatpandan_Render.png",
+    "05 Attachments/Blender/Image/Donut_v2.png",
+    "05 Attachments/Blender/Image/Donut_v1.png",
+    "05 Attachments/Blender/3d File/Donut base.png",
+    "03 Projects & Assignments/Startup/IdeaStartup/App Idea.canvas",
+    "Table of Contents.base",
+    "03 Projects & Assignments/Completed",
+    "03 Projects & Assignments/To Do/ATM Simulator System/Project File/Project File.pdf",
+    "03 Projects & Assignments/To Do/ATM Simulator System/icons/logo.jpg",
+    "03 Projects & Assignments/To Do/ATM Simulator System/icons/atm.jpg",
+    "Untitled.canvas",
     "Mathematics",
     "Machine Learning",
     "00 Inbox/Meeting canvas.canvas",
-    "02 Literature Notes/Machine Learning in 2024 – Beginner's Course.md",
-    "04 Subject Notes/2nd Year/3114 - Database Management (Info Mgt) 1/Raw/DBMS Module 2.md",
-    "04 Subject Notes/2nd Year/3114 - Database Management (Info Mgt) 1/Raw/Database_Course_Orientation.pdf",
-    "Table of Contents.base",
-    "03 Permanent Note/How to deploy project in GitHub.md",
-    "00 Inbox/Python Virtual Environment.md",
-    "00 Inbox/Setting the Specific Data Type.md",
-    "00 Inbox/Standard Deviation and Variance.md",
-    "00 Inbox/Python Try...Except.md",
-    "00 Inbox/MySql Access denied problem.md",
-    "00 Inbox/Python Date.md",
-    "00 Inbox/Python Module.md",
-    "00 Inbox/Python String Formatting.md",
-    "00 Inbox/Code Refractor.md",
-    "00 Inbox/Asynchronous functions.md",
-    "00 Inbox/Untitled.md",
-    "00 Inbox/Python JSON.md",
-    "02 - Resources/Websites/W3Schools.com.md",
+    "02 Subject Notes/2nd Year/3114 - Database Management (Info Mgt) 1/Raw/Database_Course_Orientation.pdf",
     "02 - Resources/Websites",
     "02 - Resources",
-    "02 Literature Notes/The Odin Project/Javascript Basics/01 Variables and Operators  The Odin Project.md",
-    "00 Inbox/2025-Aug-21 Thu.md",
-    "00 Inbox/Promise.md",
-    "02 Literature Notes/Callbacks & Events.md",
-    "00 Inbox/Meeting 8-20-2025.md",
-    "02 Literature Notes/Coursera/Introduction to Software Engineering/Module 1.md",
-    "02 Literature Notes/Java CheatSheet/Robust Exception Handling_Coding Cheat Sheet.md",
-    "02 Literature Notes/Coursera/Getting Started with Git and GitHub/Module 1.md",
-    "02 Literature Notes/Coursera/Getting Started with Git and GitHub/Module 2.md",
-    "08 Attachments/Pasted image 20250821153228.png",
-    "08 Attachments/Pasted image 20250821153213.png",
-    "08 Attachments/Pasted image 20250820232912.png",
-    "08 Attachments/google-classroom.svg",
-    "08 Attachments/java-svgrepo-com.svg",
-    "08 Attachments/Pasted image 20250710092721.png",
-    "08 Attachments/Git Commands and Managing GitHub Projects_Cheat Sheet.pdf",
-    "05 Projects & Assignments/Startup/IdeaStartup/App Idea.canvas",
-    "08 Attachments/Blender/Image/Donut_v2.png",
-    "08 Attachments/Blender/Image/Donut_v1.png",
-    "08 Attachments/Blender/3d File/Donut base.png",
-    "05 Projects & Assignments/To Do/ATM Simulator System/Project File/Project File.pdf",
-    "05 Projects & Assignments/To Do/ATM Simulator System/icons/logo.jpg",
+    "05 Attachments/Pasted image 20250821153228.png",
+    "05 Attachments/Pasted image 20250821153213.png",
+    "05 Attachments/Git Commands and Managing GitHub Projects_Cheat Sheet.pdf",
     "04 Subject Notes/2nd Year/GATPANDAN_JERICOB25-002976-01D071125194514 (4).pdf",
-    "All Notes.base",
-    "05 Projects & Assignments/Startup/IdeaStartup/Ideas Mindmap.canvas",
-    "04 Subject Notes/2nd Year/3049 - Discrete Structures 2/Raw"
+    "03 Projects & Assignments/Startup/IdeaStartup/Ideas Mindmap.canvas"
   ]
 }
